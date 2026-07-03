@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+models/*.keras
+models/*.h5
+outputs/
+dataset/
+.idea/
+.vscode/
+Thumbs.db
