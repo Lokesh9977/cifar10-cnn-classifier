@@ -103,4 +103,4 @@ CIFAR10_CNN/
 
 ## Author
 
-Lokesh — Integrated M.Tech, Computer Science (AI Specialization), VIT Bhopal University
+Lokesh — Integrated M.Tech, Computer Science (Specialization in AI & ML), VIT Bhopal University
